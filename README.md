@@ -26,6 +26,14 @@ A collection of custom pixel-art companions designed for the Codex Pet extension
 
 ## Installation
 
-1. Download or clone this repository:
+### Prerequisites
+Make sure you have the [Codex Pet](https://marketplace.visualstudio.com/) extension installed in VS Code:
+* Extension ID: `dinohousedigitalllc.vscode-codex-pet`
+
+---
+
+### Step-by-Step Setup
+
+1. **Clone or download** this repository:
    ```bash
    git clone https://github.com/Pau-Gallego-Cistero/codex-custom-pets.git

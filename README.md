@@ -27,7 +27,7 @@ A collection of custom pixel-art companions designed for the Codex Pet extension
 ## Installation
 
 ### Prerequisites
-Make sure you have the [Codex Pet](https://marketplace.visualstudio.com/) extension installed in VS Code:
+Make sure you have the [Codex Pet](https://marketplace.visualstudio.com/items?itemName=DinohouseDigitalLLC.vscode-codex-pet) extension installed in VS Code:
 * Extension ID: `dinohousedigitalllc.vscode-codex-pet`
 
 ---

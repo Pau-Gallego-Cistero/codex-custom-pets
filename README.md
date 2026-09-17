@@ -19,7 +19,7 @@ A collection of custom pixel-art companions designed for the Codex Pet extension
 
 ## Design & AI Workflow Disclosure
 
-- **Visual Concept & Design:** The artistic concepts and original character ideas are entirely mine. Generative AI tools were used to modify, iterate, and adapt these designs into a cohesive pixel-art sprite format.
+- **Visual Concept & Design:** The artistic concepts and original character ideas are entirely mine. Generative AI tools were used to adapt these designs into a cohesive pixel-art sprite format.
 - **Code & Functionality:** The folder architecture, frame alignments, and configuration files needed to make these sprites fully operational within Codex were developed with heavy assistance from AI.
 
 ---

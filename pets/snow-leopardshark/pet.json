@@ -1,0 +1,7 @@
+{
+    "id": "leopard-shark",
+    "displayName": "Snow Leopard",
+    "description": "A cute snow leopard cub.",
+    "spritesheetPath": "spritesheet.webp",
+    "kind": "animal"
+}

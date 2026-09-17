@@ -1,0 +1,8 @@
+{
+    "id": "penguin-fisher",
+    "displayName": "Penguin Fisher",
+    "description": "A little penguin who likes fishing.",
+    "spritesheetPath": "spritesheet.webp",
+    "kind": "animal",
+    "scale": 0.3
+}

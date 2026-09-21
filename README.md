@@ -2,7 +2,9 @@
 
 A collection of custom pixel-art companions designed for the Codex Pet extension in VS Code.
 
-![Codex Pets Preview](assets/preview-pl.png)  ![Codex Pets Preview](assets/preview.toad.gif)
+| Pets | Animación |
+| :---: | :---: |
+| <img src="assets/preview-pl.png" height="220" alt="Codex Pets Preview"> | <img src="assets/preview.toad.gif" height="220" alt="Codex Pets Toad Preview"> |
 
 ---
 

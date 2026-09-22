@@ -3,5 +3,6 @@
   "displayName": "Stegosapo",
   "description": "Stegosapo con ciclo completo de salto y respiración fluida",
   "spriteVersionNumber": 3,
-  "spritesheetPath": "spritesheet.webp"
+  "spritesheetPath": "spritesheet.webp",
+  "scale": 1.5
 }

@@ -1,7 +1,7 @@
 {
   "id": "stegosapo",
   "displayName": "Stegosapo",
-  "description": "Stegosapo escalado y animado para Codex Pet",
-  "spriteVersionNumber": 2,
+  "description": "Stegosapo con ciclo completo de salto y respiración fluida",
+  "spriteVersionNumber": 3,
   "spritesheetPath": "spritesheet.webp"
 }

@@ -2,8 +2,10 @@
 
 A collection of custom pixel-art companions designed for the Codex Pet extension in VS Code.
 
-<img src="assets/preview-pl.png" height="220" alt="Codex Pets Preview"> <img src="assets/preview_sapo.gif" height="220" alt="Preview Stegosapo">
-
+<p align="center">
+  <img src="assets/preview-pl.png" height="220" alt="Codex Pets Preview">
+  <img src="assets/preview_sapo.gif" height="220" alt="Preview Stegosapo">
+</p>
 ---
 
 ## Included Pets

@@ -15,10 +15,10 @@ A collection of custom pixel-art companions designed for the Codex Pet extension
 
 | Pet | Description | Status |
 | :--- | :--- | :---: |
-| **Cyborg Penguin** | A tech-rigged fishing penguin equipped with antennas and gear. | Ready |
+| **Stegosapo** | A prehistoric hybrid combining a frog and a stegosaurus. | Ready |
 | **Snow Leopardshark** | A mountain snow leopard hybrid featuring an aerodynamic shark dorsal fin. | Ready |
 | **Turquoise & White Koi** | An elegant, vibrant koi gliding across your editor. | Work in Progress |
-| **Stegosapo** | A prehistoric hybrid combining a frog and a stegosaurus. | Ready |
+| **Cyborg Penguin** | A tech-rigged fishing penguin equipped with antennas and gear. | Ready |
 
 ---
 

@@ -7,7 +7,7 @@ A collection of custom pixel-art companions designed for the Codex Pet extension
   <img src="assets/preview_sapo.gif" height="220" alt="Preview Stegosapo">
 </p>
 
-> **Note:** Please keep in mind that the GIF preview suffers from low quality and stuttering. In the actual game, the Stegosaurus Toad runs completely fluidly, looks great, and fits properly into a realistic toad size.
+> **Note:** Please keep in mind that the GIF preview suffers from low quality and stuttering. In VSCode, the Stegosaurus Toad runs fairly fluidly, looks great, and fits properly into a realistic toad size.
 
 ---
 
